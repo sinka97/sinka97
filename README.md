@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thant Sin Khine Aung
-- Access my personal website over here https://sinka97.github.io/about-sin/
-- More about my professional life @: https://www.linkedin.com/in/sinka97/, my personal life : Instagram @onlyonesin
+- Access my personal website over [here](https://sinka97.github.io/about-sin/)
+- More about my [professional life](https://www.linkedin.com/in/sinka97/), my personal life: Instagram [@onlyonesin](https://www.instagram.com/onlyonesin/)
 - 👀 My interests are in Machine Learning and Natural Language Processing and I dabble in a little bit of Public Policy research.
 - 🌱 I’m currently interning and learning to apply the concepts of data engineering in the field of marketing automation and analytics.
 - 💞️ I’m looking to collaborate on : [currently none]
