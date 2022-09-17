@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Thant Sin Khine Aung
 
-I am a final year student in Singapore Management University's School of Computing & Information Systems 👨🏻‍💻
-My interests 👀 are in Machine Learning and Natural Language Processing and I dabble in a little bit of Public Policy research.
-I am also passionate about technologies that enable public private data sharing, as they are tools we can use to combat information asymmetry.
-🌱 Currently learning: Java & neo4j
+I am a final year student in Singapore Management University's School of Computing & Information Systems 👨🏻‍💻 my interests 👀 are in Machine Learning and Natural Language Processing while I like dabbling in a little bit of Public Policy research. I am also passionate about technologies that enable public private data sharing, as they are tools we can use to combat information asymmetry.
 
 ## Find me on other socials at
 
