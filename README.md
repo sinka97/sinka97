@@ -7,12 +7,13 @@ I am a final year student in Singapore Management University's School of Computi
 - [About-Sin](https://sinka97.github.io/about-sin/), my personal site (which is still in development...I will improve it as soon as I am done with my leetcode grind!😄)
 - [Email](yourssincerelysin@outlook.com), if you wish to reach me to discuss about a project!📫
 - [LinkedIn](https://www.linkedin.com/in/sinka97/), feel free to connect with me! 💼
-- [Instagram](https://www.instagram.com/onlyonesin/), if you are a long lost friend and want to catch up. Please don't ask me for coffee just to sell me an insurance plan though...
 
 ## Languages & Technologies I am familiar with
 
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="svgs/python.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="svgs/postgresql-vertical.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="svgs/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -29,6 +30,8 @@ I am a final year student in Singapore Management University's School of Computi
   <a href="https://aws.amazon.com/glue/" title="AWS Glue"><img src="svgs/aws-glue.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://cloud.google.com/" title="Google Cloud"><img src="svgs/google-cloud.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://neo4j.com/" title="neo4j"><img src="svgs/neo4j.svg" height="35" width="auto" /></a>
 </p>
 
 ## Technologies I am currently learning!
@@ -36,7 +39,7 @@ I am a final year student in Singapore Management University's School of Computi
 <p align="center">
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://neo4j.com/" title="neo4j"><img src="svgs/neo4j.svg" height="35" width="auto" /></a>
+  
 </p>
 
 
