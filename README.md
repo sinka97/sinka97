@@ -15,8 +15,6 @@ I am a final year student in Singapore Management University's School of Computi
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="svgs/postgresql-vertical.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="svgs/javascript.svg" height="35" width="auto" /></a>
-  &nbsp;
   <a href="https://www.google.com/script/start/" title=Google Apps Script"><img src="svgs/google_apps_script.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.djangoproject.com/" title="Django"><img src="svgs/django.svg" height="35" width="auto" /></a>
