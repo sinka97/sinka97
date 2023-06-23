@@ -4,7 +4,7 @@ I am a final year student in Singapore Management University's School of Computi
 
 ## Find me on other socials at
 
-- [About-Sin](https://sinka97.github.io/about-sin/), my personal site (which is still in development...I will improve it as soon as I am done with my leetcode grind!😄)
+- [About-Sin](http://www.sinka97.com), my personal site! Feel free to check out some of my personal projects which are deployed throuhg the "Other Works" tab on the site.
 - [Email](yourssincerelysin@outlook.com), if you wish to reach me to discuss about a project!📫
 - [LinkedIn](https://www.linkedin.com/in/sinka97/), feel free to connect with me! 💼
 
