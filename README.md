@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thant Sin Khine Aung
 
-I am a final year student in Singapore Management University's School of Computing & Information Systems 👨🏻‍💻 my interest is in Data Engineering while I also like to dabble in a little bit of Public Policy research. I am passionate about technologies that enable public private data sharing, as they are tools we can use to combat information asymmetry.
+I am a Data Engineer, and a recent graudate of Singapore Management University's School of Computing & Information Systems 👨🏻‍💻 my interest is in Data Engineering while I also like to dabble in a little bit of Public Policy research. I am passionate about technologies that enable public private data sharing, as they are tools we can use to combat information asymmetry.
 
 ## Find me on other socials at
 
