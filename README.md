@@ -2,11 +2,12 @@
 
 I am a Data Engineer, and a recent graudate of Singapore Management University's School of Computing & Information Systems 👨🏻‍💻 my interest is in Data Engineering while I also like to dabble in a little bit of Public Policy research. I am passionate about technologies that enable public private data sharing, as they are tools we can use to combat information asymmetry.
 
-## Find me on other socials at
+Check out my personal website to find out more about me or my personal projects [https://sinka97.com](https://sinka97.com)
 
-- [About-Sin](http://www.sinka97.com), my personal site! Feel free to check out some of my personal projects which are deployed throuhg the "Other Works" tab on the site.
+## Find me on other socials at
 - [Email](yourssincerelysin@outlook.com), if you wish to reach me to discuss about a project!📫
 - [LinkedIn](https://www.linkedin.com/in/sinka97/), feel free to connect with me! 💼
+- [About-Sin](https://sinka97.com), my personal site! Feel free to check out some of my personal projects which are deployed throuhg the "Other Works" tab on the site.
 
 ## Languages & Technologies I am familiar with
 
