@@ -36,7 +36,7 @@ Check out my personal website to find out more about me or my personal projects 
 ## Technologies I am currently learning!
 
 <p align="center">
-  <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
+  <a href="https://www.scala-lang.org/" title="Scala"><img src="svgs/scala.svg" height="35" width="auto" /></a>
   &nbsp;
   
 </p>
